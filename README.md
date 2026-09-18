@@ -2,6 +2,8 @@
 
 A deployable **Next.js + TypeScript resume-coaching MVP** with a working, key-free sample mode and an optional Groq-backed live mode. It compares evidence in a resume against a job description. It is not an employer ATS simulator or an automated hiring tool.
 
+#Live demo: https://resume-lens-wheat-pi.vercel.app/
+
 ## 1. Prerequisites
 
 Install **Node.js 22.14+** (Node 22 LTS recommended), npm, and an editor such as VS Code. You do not need Python. For deployment, create your own GitHub and Vercel accounts. Live analysis also needs Groq API access on its Free Plan with model access, plus an Upstash Redis database in production. Stay on free plans to avoid service fees; usage quotas and eligibility apply. The sample demo makes no AI calls.
