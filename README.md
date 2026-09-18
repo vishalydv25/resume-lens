@@ -2,7 +2,8 @@
 
 A deployable **Next.js + TypeScript resume-coaching MVP** with a working, key-free sample mode and an optional Groq-backed live mode. It compares evidence in a resume against a job description. It is not an employer ATS simulator or an automated hiring tool.
 
-#Live demo: https://resume-lens-wheat-pi.vercel.app/
+# Live demo:
+https://resume-lens-wheat-pi.vercel.app/
 
 ## 1. Prerequisites
 
